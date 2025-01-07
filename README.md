@@ -11,10 +11,6 @@ Thoughtwell is a web application built for users to release their thoughts anony
 1. Clone the repository and in the client directory run ```npm install```
 2. Run ```npm run dev``` to locally run the project in ```localhost:5173```
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * [React](https://react.dev/) - Web library for user interfaces
